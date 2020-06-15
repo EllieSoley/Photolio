@@ -463,4 +463,9 @@ a{
 }
 
 .text-grey,.hover-text-grey:hover,.text-gray,.hover-text-gray:hover{color:#757575!important}
-
+.text-decoration {
+    text-decoration: none;
+}
+.pointer {
+    cursor: pointer;
+}
